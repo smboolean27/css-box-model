@@ -6,3 +6,8 @@
   padding: 20px;
   box-sizing: border-box;
 }
+
+footer {
+  background-color: red;
+  color: white;
+}
